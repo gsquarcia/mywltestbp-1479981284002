@@ -1,4 +1,4 @@
-# BeerShop - A _Java Workload Scheduler Web Starter_ app
+# BeerShop - A _Java Workload Scheduler Web Starter_ app - branch change!!
 This application demonstrates how to use the Workload Scheduler service, with the 'Liberty for Java™' runtime and Cloudant No-SQL database on Bluemix Cloud.
 
 ## Table of contents
